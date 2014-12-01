@@ -4,7 +4,7 @@ $(document).ready(function() {
 			if (cur === 1)
 			{
 				$('p').fadeOut(400, function(){
-					$('p').html('Who is Sonya?');
+					$('p').html('Who is Balyasha?');
 				});
 				
 				$('p').fadeIn(400);
@@ -14,7 +14,7 @@ $(document).ready(function() {
 			else
 			{
 				$('p').fadeOut(400, function (){
-					$('p').html('Sonya loshara');
+					$('p').html('Balyasha loshara');
 				});
 			
 				$('p').fadeIn(400);
